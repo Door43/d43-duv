@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[duv:home|Door43 (duv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-duv|d43-duv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-duv/archive/master.zip|d43-duv.zip]]
+
+**Recent Changes**
+{{changes>ns = duv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/duv|Ethnologue data]]
+
